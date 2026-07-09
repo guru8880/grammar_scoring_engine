@@ -1,4 +1,9 @@
 # Grammar Scoring Engine from Speech
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3a4facfe%2c100%3a00f2fe&height=230&section=header&text=Grammar+Scoring+Engine&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Speech+Features+%7c+Machine+Learning+%7c+Regression&descSize=16&descAlignY=55&animation=fadeIn" alt="Grammar Scoring Engine project banner" width="100%" />
+</p>
+
+<p align="center"><em>Project-themed banner generated from an internet-hosted image service for a cleaner GitHub presentation.</em></p>
 
 A machine learning pipeline that predicts a continuous grammar-proficiency score from spoken audio. The project was developed for the SHL Intern Hiring Assessment dataset.
 
